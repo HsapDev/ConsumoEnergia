@@ -2,6 +2,10 @@
 
 Projeto 2 da disciplina **Algoritmos e Programação II** (Faculdade de Computação e Informática — Universidade Presbiteriana Mackenzie), implementado em **linguagem C** utilizando **arrays paralelos** (sem `struct`).
 
+```bash
+Nota: Antes da criação deste repositório, o código foi compartilhado diretamente entre os integrantes. Portanto, a atribuição exata de autoria em cada commit ou função pode não refletir integralmente o histórico real de desenvolvimento.
+```
+
 ## Como funciona
 
 Ao iniciar, o programa carrega dois arquivos de entrada:
@@ -29,7 +33,11 @@ Em seguida, o sistema exibe um menu interativo com 6 opções:
 - **Henrique Silva Pereira (`HsapDev`)**
   - Ordenação com Merge Sort em arrays paralelos (`mergeSortLeituraPorId` e `intercalar`)
   - Funções de análise de consumo (`calcularConsumoUnidade`, `calcularConsumoPeriodo`, `encontrarUnidadeMaiorConsumo`)
-  - Implementação complementar dos algoritmos de ordenação (`trocarLeituras`, `bubbleSortLeituraPorId`, `insertionSortLeituraPorId`, `selectionSortLeituraPorId`, `particionar`, `quickSortLeituraPorId`)
+
+- **Felipe Venâncio Barros (`Towid1`)**
+  - Troca de posição dos dados das leituras durante a ordenação (trocarLeituras)
+  - Divisão dos dados como etapa auxiliar para o Quick Sort (particionar)
+  - Implementação complementar dos algoritmos de ordenação (`trocarLeituras`, `bubbleSortLeituraPorId`, `insertionSortLeituraPorId`, `selectionSortLeituraPorId`, `quickSortLeituraPorId`)
 
 ## Como compilar e executar
 
