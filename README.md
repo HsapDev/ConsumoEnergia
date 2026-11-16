@@ -4,7 +4,8 @@ Projeto 2 da disciplina **Algoritmos e Programação II** (Faculdade de Computa�
 
 ```bash
 Nota: Antes da criação deste repositório, o código foi compartilhado diretamente entre os integrantes.
-Portanto, a atribuição exata de autoria em cada commit ou função pode não refletir integralmente o histórico real de desenvolvimento.
+Portanto, a atribuição exata de autoria em cada commit ou função pode não refletir integralmente
+o histórico real de desenvolvimento.
 ```
 
 ## Como funciona
